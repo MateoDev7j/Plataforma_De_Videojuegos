@@ -6,3 +6,9 @@ const ACTION_DEFAULT = '';
 
 //Direccion base del proyecto para el navegador
 define('DEFINE_URL', '/miproyecto/');
+define('RUTA_VIEWS',__DIR__ .'/Views/');
+define('RUTA_JUGADORES',__DIR__ .'/data/jugadores.json');
+define('RUTA_JUEGOS',__DIR__ .'/data/juegos.json');
+define('RUTA_UPLOADS',__DIR__ .'/public/upload/juegos');
+define('MAX_ZIP', 10 * 1024 * 1024 );
+define('CATEGORIAS',['Aventura', 'Estrategia', 'Puzzle','Arcade']);
