@@ -1,3 +1,9 @@
 <?php
 //Juegocontroller
+//JugadorController
+
+
+
+
+
 ?>
