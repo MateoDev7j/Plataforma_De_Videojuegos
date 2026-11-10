@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: aliceblue;
+}
+.header-content{
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+.footer-content{
+    display: flex;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+html,body{
+    height: 100%;
+    margin: 0;
+}
